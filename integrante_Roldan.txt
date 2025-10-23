@@ -1,2 +1,2 @@
 Alumna Roldan, Materia MSII, Año 2025 2 cuatrimestre > integrante_Roldan.txt
-echo Alumna Roldan, Materia MSII, Año 2025 2 cuatrimestre
+
