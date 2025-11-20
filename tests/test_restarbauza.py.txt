@@ -1,0 +1,11 @@
+from funciones.restarbauza import restar_bauza
+
+def test_restar_bauza():
+    # Prueba 1: Resta positiva (10 - 4 = 6)
+    assert restar_bauza(10, 4) == 6 
+    
+    # Prueba 2: Resta negativa (5 - 10 = -5)
+    assert restar_bauza(5, 10) == -5
+
+    # Prueba 3: Resta con cero (15 - 0 = 15)
+    assert restar_bauza(15, 0) == 15
